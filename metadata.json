@@ -1,0 +1,6 @@
+{
+  "name": "Smart Secure VPN",
+  "description": "Fast, Secure, and Private Internet Connection at Your Fingertips. Featuring one-tap connection, smart categorized servers, real-time speed meters, ad-blocking, and multi-protocol support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
